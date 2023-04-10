@@ -1,0 +1,26 @@
+{
+    "usuario1": {
+        "nombre": "Adrian",
+        "apellido": "Calo",
+        "edad": 33,
+        "profesion": "Policia"
+    },
+    "usuario2": {
+        "nombre": "Tomas",
+        "apellido": "Cardenas",
+        "edad": 27,
+        "profesion": "Comerciante"
+    },
+    "usuario3": {
+        "nombre": "Gaston",
+        "apellido": "Fauret",
+        "edad": 36,
+        "profesion": "Empleado"
+    },
+    "usuario4": {
+        "nombre": "Milagros",
+        "apellido": "Aguilar",
+        "edad": 26,
+        "profesion": "Empleada"
+    }
+}
